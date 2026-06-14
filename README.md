@@ -55,3 +55,10 @@ Each query is designed to provide a different perspective:
 2. Load the CSV files from `csv_files` into PostgreSQL using the scripts in `sql_load` if needed.
 3. Run each `.sql` file in order to inspect the results and verify the analysis.
 4. Use this README and the SQL queries together to understand which remote data analyst skills and positions are most valuable for you.
+
+
+# Closing Thoughts
+
+This project has strengthened my SQL skills and I have learned how to successfully execute powerful SQL queries to grasp information I needed from the datasets provided. Focusing on high-paying positions with the high-demand skills I possess will give me an advantage within the competitive job market. I am looking forward to continuing my learning of data analytics to soon become a cogent data analyst.
+
+Data sourced from [datanerd.tech](https://datanerd.tech) by [Luke Barousse](https://datanerd.tech/about)
