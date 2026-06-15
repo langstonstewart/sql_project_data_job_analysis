@@ -1,7 +1,7 @@
 # Introduction
 This project explores data for high-paying job postings, a wide variety of skills that are in demand, and where the stars for high demand and high salary postings align.
 
-The queries can be found here: [project_sql folder](/sql_project_data_job_analysis/project_sql/)
+The queries can be found here: [project_sql folder](/project_sql/)
 # Questions
 - What are the top-paying remote data analyst jobs with high salaries?
 - What are the required skills needed for these positions?
