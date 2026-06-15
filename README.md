@@ -67,6 +67,6 @@ Each query is designed to provide a different perspective:
 
 # Closing Thoughts
 
-This project has strengthened my SQL skills, and I have learned how to successfully execute powerful SQL queries to grasp information I needed from the datasets provided. With the high-demand skills I possess, focusing on high-paying positions will give me an advantage within the competitive job market. I am looking forward to continuing my learning of data analytics to soon become a competent Data Analyst.
+This project has strengthened my SQL skills, and I have learned how to successfully execute powerful SQL queries to grasp information I needed from the datasets provided. With the high-demand skills I possess, focusing on high-paying positions will give me an advantage within a competitive job market. I am looking forward to continuing my learning of data analytics to soon become a competent Data Analyst.
 
 Data sourced from [datanerd.tech](https://datanerd.tech) by [Luke Barousse](https://datanerd.tech/about)
