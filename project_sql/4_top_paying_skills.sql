@@ -1,8 +1,8 @@
 
 
 SELECT
-    skills.skills,
-    ROUND(AVG(jpf.salary_year_avg), 0) AS average_salary
+    INITCAP(skills.skills) as "Skill",
+    CAST(ROUND(AVG(jpf.salary_year_avg), 0) AS INT) AS "Salary"
   
 
 FROM job_postings_fact AS jpf
@@ -23,7 +23,7 @@ GROUP BY
     skills.skills
 
 ORDER BY
-    average_salary DESC
+    "Salary" DESC
 
 LIMIT 25
 

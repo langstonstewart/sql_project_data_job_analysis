@@ -32,7 +32,8 @@ WITH top_paying_jobs AS (
 )
 
 SELECT 
-    tpj.*,
+    tpj.job_title,
+    tpj.salary_year_avg,
     skills.skills
 
 FROM top_paying_jobs AS tpj

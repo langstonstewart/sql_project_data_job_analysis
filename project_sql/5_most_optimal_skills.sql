@@ -1,9 +1,9 @@
 
 
 SELECT
-    skills.skills,
-    COUNT(skills.skills) AS skill_demand,
-    ROUND(AVG(jpf.salary_year_avg), 0) AS average_salary
+    INITCAP(skills.skills) as "Skill",
+    CAST(COUNT(skills.skills) AS INT) AS "Demand",
+    CAST(ROUND(AVG(jpf.salary_year_avg), 0) AS INT) AS "Salary"
   
 
 FROM job_postings_fact AS jpf
@@ -27,8 +27,8 @@ HAVING
     COUNT(skills.skills) >= 10
 
 ORDER BY
-    average_salary DESC,
-    skill_demand DESC
+    "Salary" DESC,
+    "Demand" DESC
     
     
     

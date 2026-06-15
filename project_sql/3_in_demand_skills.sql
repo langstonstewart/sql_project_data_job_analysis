@@ -1,8 +1,8 @@
 
 
 SELECT
-    skills.skills,
-    COUNT(sjd.job_id) as demand_count
+    INITCAP(skills.skills) AS "Skill",
+    CAST(COUNT(sjd.job_id) AS INT) as "Demand"
 
 FROM job_postings_fact AS jpf
 
@@ -22,6 +22,6 @@ GROUP BY
     skills.skills
 
 ORDER BY
-    demand_count DESC
+    "Demand" DESC
 
 LIMIT 5
