@@ -45,7 +45,7 @@ Each query is designed to provide a different perspective:
 
 - `1_top_paying_jobs.sql` exhibits the highest-paying remote data analyst jobs; they are the best starting point for salary-focused jobs.
 - `2_top_paying_jobs_skills.sql` demonstrates the skills required for top-paying roles and shows that premium jobs still require a well-rounded technical toolkit.
-[project_sql folder](/project_sql/)
+![plot_1](/plots/plot_1.png)
 - `3_in_demand_skills.sql` identifies skills that keep appearing across remote analyst postings.
 - `4_top_paying_skills.sql` reveals which skills tend to be associated with higher salaries.
 - `5_most_optimal_skills.sql` surfaces skills that balance both demand and salary impact, making them especially useful for learning and career planning.
