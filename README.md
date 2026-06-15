@@ -37,7 +37,7 @@ Each query is designed to provide a different perspective:
 # What I Learned
 
 - Remote `Data Analyst` roles are evaluated on both salary potential and required skill sets.
-- Skills like SQL, Python, and data visualization often appear among the most in-demand qualifications for remote data analyst positions.
+- Skills like SQL, Python, and Excel often appear among the most in-demand qualifications for remote data analyst positions.
 - Some skills are more strongly associated with higher average salaries than others, suggesting a prioritization for career development.
 - Combining frequency and salary impact provides a more practical view of which skills are optimal to look out for.
 
